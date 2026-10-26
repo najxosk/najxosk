@@ -11,7 +11,7 @@ vlastný popis a vlastné štítky (kategórie), podľa ktorých sa dá triediť
 |---------|----------|------|
 | **[dielnicka](https://github.com/najxosk/dielnicka)** | Little Alchemist — skladanie vecí podľa skutočnej chémie (8 kôl, SK/EN) + 📚 Skúšobňa: tri hry na učenie | [hraj tu](https://najxosk.github.io/dielnicka/) |
 | **[affix-merchant](https://github.com/najxosk/affix-merchant)** | Affix Merchant — ARPG obchod s kovaním predmetov (buy, craft, corrupt, profit). ✅ Dokončené | [hraj tu](https://najxo.itch.io/affix-merchant) |
-| **[dark-forge](https://github.com/najxosk/dark-forge)** | Dark Forge: Blood & Iron — kováčska hra o teple, načasovaní a drahokamoch. ✅ Dokončené | [hraj tu](https://najxosk.github.io/dark-forge/) |
+| **[dark-forge](https://github.com/najxosk/dark-forge)** | Dark Forge: Blood & Iron — kováčska hra o teple, načasovaní a drahokamoch. ✅ Dokončené | [otvor hru](https://raw.githubusercontent.com/najxosk/dark-forge/main/index.html) |
 | **[polnocna-posta](https://github.com/najxosk/polnocna-posta)** | Polnočná pošta — offline hra o triedení obálok pred posledným vlakom snov | [hraj tu](https://najxosk.github.io/polnocna-posta/) |
 | **[kotolna-junior](https://github.com/najxosk/kotolna-junior)** | Kotolňa Junior — hrateľný tréning obsluhy kotolne (voda, plyn, vzduch, ťah, čerpadlo) | — |
 | **[hry](https://github.com/najxosk/hry)** | Pripravená zbierka pre budúce hry (jedna hra = jedna zložka). Hry, ktoré majú vlastný repozitár, sem nepatria | — |
